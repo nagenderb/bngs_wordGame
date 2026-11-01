@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "gameId": "game1",
+  "gameType": "WORD_REARRANGE",
+  "language": "te",
+  "contentVersion": 1,
+  "settings": {
+    "animation": "BOUNCE"
+  },
+  "levels": [
+    {
+      "levelId": "g1_l1",
+      "levelNumber": 1,
+      "tokens": [
+        "గ",
+        "ే",
+        "ట"
+      ],
+      "correctOrder": [
+        "గ",
+        "ే",
+        "ట"
+      ],
+      "answer": "గేట"
+    },
+    {
+      "levelId": "g1_l2",
+      "levelNumber": 2,
+      "tokens": [
+        "మ",
+        "ల",
+        "క"
+      ],
+      "correctOrder": [
+        "క",
+        "మ",
+        "ల"
+      ],
+      "answer": "కమల"
+    }
+  ]
+}

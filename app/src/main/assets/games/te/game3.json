@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "gameId": "game3",
+  "gameType": "IMAGE_QUESTION_ANSWER",
+  "language": "te",
+  "contentVersion": 1,
+  "settings": {
+    "keyboard": {
+      "rows": 3,
+      "columns": 8,
+      "keys": [
+        "అ",
+        "ఆ",
+        "ఇ",
+        "ఈ",
+        "ఉ",
+        "ఊ",
+        "ఎ",
+        "ఏ",
+        "క",
+        "ఖ",
+        "గ",
+        "ఘ",
+        "చ",
+        "జ",
+        "ట",
+        "డ",
+        "త",
+        "ద",
+        "న",
+        "ప",
+        "బ",
+        "ర",
+        "ల",
+        "వ"
+      ],
+      "shuffle": "FULL",
+      "keyReuse": false
+    }
+  },
+  "levels": [
+    {
+      "levelId": "g3_l1",
+      "levelNumber": 1,
+      "image": {
+        "asset": "images/te/sample_01.png",
+        "version": 1
+      },
+      "answer": [
+        "మా",
+        "మి",
+        "డి"
+      ]
+    },
+    {
+      "levelId": "g3_l2",
+      "levelNumber": 2,
+      "image": {
+        "asset": "images/te/sample_02.png",
+        "version": 1
+      },
+      "answer": [
+        "క",
+        "మ",
+        "ల"
+      ]
+    }
+  ]
+}
