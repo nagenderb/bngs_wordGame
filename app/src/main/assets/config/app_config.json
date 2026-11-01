@@ -1,0 +1,28 @@
+{
+  "configVersion": 1,
+  "activeLanguage": "te",
+  "languages": [
+    {
+      "code": "te",
+      "gameUrls": {
+        "game1": "https://re-birth-2025.web.app/wordcollection/telugu/game1.json",
+        "game2": "https://re-birth-2025.web.app/wordcollection/telugu/game2.json",
+        "game3": "https://re-birth-2025.web.app/wordcollection/telugu/game3/game3.json",
+        "game4": "https://re-birth-2025.web.app/wordcollection/telugu/game4.json"
+      },
+      "bundledContentPath": "games/te/"
+    }
+  ],
+  "ads": {
+    "interstitialEveryCompletedLevels": 3,
+    "minSecondsBetweenInterstitials": 0,
+    "bannerUnitId": "REPLACE_WITH_RELEASE_BANNER_UNIT_ID",
+    "interstitialUnitId": "REPLACE_WITH_RELEASE_INTERSTITIAL_UNIT_ID"
+  },
+  "sync": {
+    "minHoursBetweenChecks": 6,
+    "connectTimeoutMs": 10000,
+    "readTimeoutMs": 20000,
+    "maxJsonBytes": 5242880
+  }
+}

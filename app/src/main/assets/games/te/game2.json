@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "gameId": "game2",
+  "gameType": "TEXT_QUESTION_ANSWER",
+  "language": "te",
+  "contentVersion": 1,
+  "settings": {
+    "keyboard": {
+      "rows": 3,
+      "columns": 8,
+      "keys": [
+        "అ",
+        "ఆ",
+        "ఇ",
+        "ఈ",
+        "ఉ",
+        "ఊ",
+        "ఎ",
+        "ఏ",
+        "ఐ",
+        "ఒ",
+        "ఓ",
+        "ఔ",
+        "క",
+        "ఖ",
+        "గ",
+        "ఘ",
+        "చ",
+        "ఛ",
+        "జ",
+        "ఝ",
+        "ట",
+        "ఠ",
+        "డ",
+        "ఢ"
+      ],
+      "shuffle": "FULL",
+      "keyReuse": false
+    }
+  },
+  "levels": [
+    {
+      "levelId": "g2_l1",
+      "levelNumber": 1,
+      "question": "మామ కానీ మామ ?",
+      "answer": [
+        "చం",
+        "ద",
+        "మా",
+        "మ"
+      ]
+    },
+    {
+      "levelId": "g2_l2",
+      "levelNumber": 2,
+      "question": "ఇది ఒక పువ్వు ?",
+      "answer": [
+        "క",
+        "మ",
+        "ల"
+      ]
+    }
+  ]
+}
